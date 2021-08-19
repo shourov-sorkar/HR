@@ -1,0 +1,16 @@
+.footer {
+    position: absolute;
+    background: #4863A0;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+}
+
+.footer p{
+    margin: 0 !important;
+    padding: 15px 0px;
+}
+.footer a{
+  text-decoration: none;
+  color: white;
+}
